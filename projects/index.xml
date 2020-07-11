@@ -13,37 +13,47 @@
     </image>
     
     <item>
-      <title>An example title</title>
-      <link>https://aiyeraditya.github.io/projects/covid2019/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://aiyeraditya.github.io/projects/covid2019/</guid>
-      <description>&lt;p&gt;Add your &lt;em&gt;content&lt;/em&gt; here&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example title</title>
-      <link>https://aiyeraditya.github.io/projects/haltere/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://aiyeraditya.github.io/projects/haltere/</guid>
-      <description>&lt;p&gt;Add your &lt;em&gt;content&lt;/em&gt; here&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example title</title>
+      <title>An experimental model system for understanding metabolic scaling</title>
       <link>https://aiyeraditya.github.io/projects/metabolic_scaling/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://aiyeraditya.github.io/projects/metabolic_scaling/</guid>
+      <description>&lt;p&gt;My master&amp;rsquo;s thesis project.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Motivation&lt;/li&gt;
+&lt;li&gt;Review of the field&lt;/li&gt;
+&lt;li&gt;Microfluidic tool for measuring metabolic activity&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automating Patient Data Handling and reporting COVID PCR Tests</title>
+      <link>https://aiyeraditya.github.io/projects/covid2019/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://aiyeraditya.github.io/projects/covid2019/</guid>
+      <description>&lt;p&gt;In April 2020, the Bangalore Life Sciences Cluster at Bangalore set up a COVID19 testing center at inStem (Institute for Stem Cell Science and Regenerative Medicine).&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How the testing center works (open information only)&lt;/li&gt;
+&lt;li&gt;How the reporting works&lt;/li&gt;
+&lt;li&gt;What I did to make testing easier. Issues faced in the Selenium Coding&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tadpole Begging : Diet and Toxicity</title>
+      <link>https://aiyeraditya.github.io/projects/tadpole_begging/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://aiyeraditya.github.io/projects/tadpole_begging/</guid>
       <description>&lt;p&gt;Add your &lt;em&gt;content&lt;/em&gt; here&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example title</title>
-      <link>https://aiyeraditya.github.io/projects/tadpole_begging/</link>
+      <title>Understanding the Role of Halteres in Control of Insect Flight</title>
+      <link>https://aiyeraditya.github.io/projects/haltere/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://aiyeraditya.github.io/projects/tadpole_begging/</guid>
+      <guid>https://aiyeraditya.github.io/projects/haltere/</guid>
       <description>&lt;p&gt;Add your &lt;em&gt;content&lt;/em&gt; here&amp;hellip;&lt;/p&gt;
 </description>
     </item>
