@@ -42,7 +42,7 @@
     </item>
     
     <item>
-      <title>Automating patient data handling and centralised reporting COVID PCR tests</title>
+      <title>Reporting COVID19 PCR Results</title>
       <link>https://aiyeraditya.github.io/projects/covid2019/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://aiyeraditya.github.io/projects/covid2019/</guid>
@@ -52,6 +52,11 @@
 &lt;li&gt;How the reporting works&lt;/li&gt;
 &lt;li&gt;What I did to make testing easier. Issues faced in the Selenium Coding&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/w7Ft2ymGmfc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
