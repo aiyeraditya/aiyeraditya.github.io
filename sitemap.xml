@@ -1,73 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://aiyeraditya.github.io/</loc>
     <lastmod>2020-07-09T21:11:42+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiyeraditya.github.io/post/philosophy-neuroscience/</loc>
     <lastmod>2020-07-09T21:11:42+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiyeraditya.github.io/post/</loc>
     <lastmod>2020-07-09T21:11:42+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiyeraditya.github.io/projects/metabolic_scaling/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiyeraditya.github.io/projects/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiyeraditya.github.io/projects/covid2019/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiyeraditya.github.io/projects/tadpole_begging/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiyeraditya.github.io/projects/haltere/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiyeraditya.github.io/author/aditya-iyer/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiyeraditya.github.io/authors/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiyeraditya.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiyeraditya.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiyeraditya.github.io/publication/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiyeraditya.github.io/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aiyeraditya.github.io/tags/</loc>
   </url>
-  
 </urlset>
