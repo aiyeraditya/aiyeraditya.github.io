@@ -1,31 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts | Aditya Iyer</title>
-    <link>https://aiyeraditya.github.io/post/</link>
-      <atom:link href="https://aiyeraditya.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jul 2020 21:11:42 +0530</lastBuildDate>
-    <image>
-      <url>https://aiyeraditya.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Posts</title>
-      <link>https://aiyeraditya.github.io/post/</link>
-    </image>
-    
-    <item>
-      <title>NeuroRants</title>
-      <link>https://aiyeraditya.github.io/post/philosophy-neuroscience/</link>
-      <pubDate>Thu, 09 Jul 2020 21:11:42 +0530</pubDate>
-      <guid>https://aiyeraditya.github.io/post/philosophy-neuroscience/</guid>
-      <description>&lt;ol&gt;
-&lt;li&gt;What I understand the purpose of neuroscience to be&lt;/li&gt;
-&lt;li&gt;Where I understand the origins of studying behaviour has come from?&lt;/li&gt;
-&lt;li&gt;What is the state of functional characterization of neural circuitry?&lt;/li&gt;
-&lt;li&gt;Can behaviour be truly understood? What do people think?&lt;/li&gt;
-&lt;li&gt;What I think the purpose of neuroscience in the aspect of functional characterization should be?&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Aditya Iyer</title><link>https://aiyeraditya.github.io/post/</link><atom:link href="https://aiyeraditya.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jul 2020 21:11:42 +0530</lastBuildDate><image><url>https://aiyeraditya.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://aiyeraditya.github.io/post/</link></image><item><title>NeuroRants</title><link>https://aiyeraditya.github.io/post/philosophy-neuroscience/</link><pubDate>Thu, 09 Jul 2020 21:11:42 +0530</pubDate><guid>https://aiyeraditya.github.io/post/philosophy-neuroscience/</guid><description>&lt;ol>
+&lt;li>What I understand the purpose of neuroscience to be&lt;/li>
+&lt;li>Where I understand the origins of studying behaviour has come from?&lt;/li>
+&lt;li>What is the state of functional characterization of neural circuitry?&lt;/li>
+&lt;li>Can behaviour be truly understood? What do people think?&lt;/li>
+&lt;li>What I think the purpose of neuroscience in the aspect of functional characterization should be?&lt;/li>
+&lt;/ol></description></item></channel></rss>

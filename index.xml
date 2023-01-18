@@ -1,98 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Aditya Iyer</title>
-    <link>https://aiyeraditya.github.io/</link>
-      <atom:link href="https://aiyeraditya.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Aditya Iyer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://aiyeraditya.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Aditya Iyer</title>
-      <link>https://aiyeraditya.github.io/</link>
-    </image>
-    
-    <item>
-      <title>Amphibian behavioral diversity offers insights into evolutionary neurobiology</title>
-      <link>https://aiyeraditya.github.io/publication/review2021/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://aiyeraditya.github.io/publication/review2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NeuroRants</title>
-      <link>https://aiyeraditya.github.io/post/philosophy-neuroscience/</link>
-      <pubDate>Thu, 09 Jul 2020 21:11:42 +0530</pubDate>
-      <guid>https://aiyeraditya.github.io/post/philosophy-neuroscience/</guid>
-      <description>&lt;ol&gt;
-&lt;li&gt;What I understand the purpose of neuroscience to be&lt;/li&gt;
-&lt;li&gt;Where I understand the origins of studying behaviour has come from?&lt;/li&gt;
-&lt;li&gt;What is the state of functional characterization of neural circuitry?&lt;/li&gt;
-&lt;li&gt;Can behaviour be truly understood? What do people think?&lt;/li&gt;
-&lt;li&gt;What I think the purpose of neuroscience in the aspect of functional characterization should be?&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An experimental model system for understanding metabolic scaling</title>
-      <link>https://aiyeraditya.github.io/projects/metabolic_scaling/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://aiyeraditya.github.io/projects/metabolic_scaling/</guid>
-      <description>&lt;p&gt;My master&amp;rsquo;s thesis project.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Motivation&lt;/li&gt;
-&lt;li&gt;Review of the field&lt;/li&gt;
-&lt;li&gt;Microfluidic tool for measuring metabolic activity&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Reporting COVID19 PCR Results</title>
-      <link>https://aiyeraditya.github.io/projects/covid2019/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://aiyeraditya.github.io/projects/covid2019/</guid>
-      <description>&lt;p&gt;In April 2020, the Bangalore Life Sciences Cluster at Bangalore set up a COVID19 testing center at inStem (Institute for Stem Cell Science and Regenerative Medicine). I headed code development, patient data handling, and reporting results, as a volunteer at the testing center.&lt;/p&gt;
-&lt;p&gt;The Bangalore Life Science Cluster (BLiSC) is a hub, comprised of 3 institutions in Bangalore; the National Center for Biological Sciences (NCBS), the Institute for Stem Cell Science and Regenerative Medicine (inStem), and the Center for Cellular and Molecular Platforms (C-CAMP).  &lt;strong&gt;Example of Research at these places&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Research capacity at BLiSC was almost completely shut down in April. Given the research at BLiSC, the infrastructure required for PCR testing COVID19 samples was available. So were highly skilled personnel, trained in the biosafety protocols and required molecular biology techniques for conducting COVID tests. After expadited approval from the Government of Karnataka and the Indian Council for Medical Research (ICMR), BLiSC started receving throat swabs from hospitals in and around Bangalore, for COVID19 testing on 13 April 2020.&lt;/p&gt;
-&lt;p&gt;5 teams of volunteers, headed by professors at inStem and NCBS were recruited.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The Scientific Staff Team receives samples and delivers them to the BSL2 facility. This team also ensures that the other groups have everything they need.&lt;/li&gt;
-&lt;li&gt;The Mastermix team prepares the mix in appropriate concentrations and quantities for the PCR tests.&lt;/li&gt;
-&lt;li&gt;The BSL2 Team aliquots samples recieved from the hospitals, assign labels, and inactivates the virus.&lt;/li&gt;
-&lt;li&gt;The PCR team does the PCR tests on the inactivated samples.&lt;/li&gt;
-&lt;li&gt;The Data-Handling team adds patient information given by the hospital into a database, and reports results to ICMR and the State government (I co-managed the Data handling team while at the testing center)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;When hospitals send the samples, they also send a Specimen Referral form, with patient details, illness history, collection site details, and the hospital details. In the month of April and May, these were physical 2-3 page forms. As they were recieved from the hospital, and were assumed to be infected, photos of each form (front and back) were taken and relayed to the DataHandling team. Using an interface designed by ___ with a ___ database backend, the details were manually input to a locally maintained database. Once the results from the PCR tests were available, these detailas were fed into the database, and patient reports were generated. These were printed and signed by the testing center in-charges, Prof. Colin Jamora and Prof. Dr. Raghu Padintaj. The signed forms were scanned, sorted, and sent to the hospitals that sent the samples. All the patient details and results then have to be uploaded on to the ICMR desinged portal. This contains over 50 fields.&lt;/p&gt;
-&lt;p&gt;Without any automation, the task of the Data-Handling team was daunting. Full of redundancies, the task was also frustrating.&lt;/p&gt;
-&lt;h3 id=&#34;video-from-the-blisc-covid-testing-center-audio-in-hindi--english&#34;&gt;Video From the BLiSC COVID Testing Center (audio in Hindi &amp;amp; English)&lt;/h3&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/8UN_JfKGVzY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Tadpole Begging : Diet and Toxicity</title>
-      <link>https://aiyeraditya.github.io/projects/tadpole_begging/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://aiyeraditya.github.io/projects/tadpole_begging/</guid>
-      <description>&lt;p&gt;Add your &lt;em&gt;content&lt;/em&gt; here&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Understanding the Role of Halteres in Control of Insect Flight</title>
-      <link>https://aiyeraditya.github.io/projects/haltere/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://aiyeraditya.github.io/projects/haltere/</guid>
-      <description>&lt;p&gt;Add your &lt;em&gt;content&lt;/em&gt; here&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aditya Iyer</title><link>https://aiyeraditya.github.io/</link><atom:link href="https://aiyeraditya.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Aditya Iyer</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><image><url>https://aiyeraditya.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Aditya Iyer</title><link>https://aiyeraditya.github.io/</link></image><item><title>Amphibian behavioral diversity offers insights into evolutionary neurobiology</title><link>https://aiyeraditya.github.io/publication/review2021/</link><pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate><guid>https://aiyeraditya.github.io/publication/review2021/</guid><description/></item><item><title>NeuroRants</title><link>https://aiyeraditya.github.io/post/philosophy-neuroscience/</link><pubDate>Thu, 09 Jul 2020 21:11:42 +0530</pubDate><guid>https://aiyeraditya.github.io/post/philosophy-neuroscience/</guid><description>&lt;ol>
+&lt;li>What I understand the purpose of neuroscience to be&lt;/li>
+&lt;li>Where I understand the origins of studying behaviour has come from?&lt;/li>
+&lt;li>What is the state of functional characterization of neural circuitry?&lt;/li>
+&lt;li>Can behaviour be truly understood? What do people think?&lt;/li>
+&lt;li>What I think the purpose of neuroscience in the aspect of functional characterization should be?&lt;/li>
+&lt;/ol></description></item><item><title>An experimental model system for understanding metabolic scaling</title><link>https://aiyeraditya.github.io/projects/metabolic_scaling/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://aiyeraditya.github.io/projects/metabolic_scaling/</guid><description>&lt;p>My master&amp;rsquo;s thesis project.&lt;/p>
+&lt;ol>
+&lt;li>Motivation&lt;/li>
+&lt;li>Review of the field&lt;/li>
+&lt;li>Microfluidic tool for measuring metabolic activity&lt;/li>
+&lt;/ol></description></item><item><title>Reporting COVID19 PCR Results</title><link>https://aiyeraditya.github.io/projects/covid2019/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://aiyeraditya.github.io/projects/covid2019/</guid><description>&lt;p>In April 2020, the Bangalore Life Sciences Cluster at Bangalore set up a COVID19 testing center at inStem (Institute for Stem Cell Science and Regenerative Medicine). I headed code development, patient data handling, and reporting results, as a volunteer at the testing center.&lt;/p>
+&lt;p>The Bangalore Life Science Cluster (BLiSC) is a hub, comprised of 3 institutions in Bangalore; the National Center for Biological Sciences (NCBS), the Institute for Stem Cell Science and Regenerative Medicine (inStem), and the Center for Cellular and Molecular Platforms (C-CAMP). &lt;strong>Example of Research at these places&lt;/strong>&lt;/p>
+&lt;p>Research capacity at BLiSC was almost completely shut down in April. Given the research at BLiSC, the infrastructure required for PCR testing COVID19 samples was available. So were highly skilled personnel, trained in the biosafety protocols and required molecular biology techniques for conducting COVID tests. After expadited approval from the Government of Karnataka and the Indian Council for Medical Research (ICMR), BLiSC started receving throat swabs from hospitals in and around Bangalore, for COVID19 testing on 13 April 2020.&lt;/p>
+&lt;p>5 teams of volunteers, headed by professors at inStem and NCBS were recruited.&lt;/p>
+&lt;ul>
+&lt;li>The Scientific Staff Team receives samples and delivers them to the BSL2 facility. This team also ensures that the other groups have everything they need.&lt;/li>
+&lt;li>The Mastermix team prepares the mix in appropriate concentrations and quantities for the PCR tests.&lt;/li>
+&lt;li>The BSL2 Team aliquots samples recieved from the hospitals, assign labels, and inactivates the virus.&lt;/li>
+&lt;li>The PCR team does the PCR tests on the inactivated samples.&lt;/li>
+&lt;li>The Data-Handling team adds patient information given by the hospital into a database, and reports results to ICMR and the State government (I co-managed the Data handling team while at the testing center)&lt;/li>
+&lt;/ul>
+&lt;p>When hospitals send the samples, they also send a Specimen Referral form, with patient details, illness history, collection site details, and the hospital details. In the month of April and May, these were physical 2-3 page forms. As they were recieved from the hospital, and were assumed to be infected, photos of each form (front and back) were taken and relayed to the DataHandling team. Using an interface designed by ___ with a ___ database backend, the details were manually input to a locally maintained database. Once the results from the PCR tests were available, these detailas were fed into the database, and patient reports were generated. These were printed and signed by the testing center in-charges, Prof. Colin Jamora and Prof. Dr. Raghu Padintaj. The signed forms were scanned, sorted, and sent to the hospitals that sent the samples. All the patient details and results then have to be uploaded on to the ICMR desinged portal. This contains over 50 fields.&lt;/p>
+&lt;p>Without any automation, the task of the Data-Handling team was daunting. Full of redundancies, the task was also frustrating.&lt;/p>
+&lt;h3 id="video-from-the-blisc-covid-testing-center-audio-in-hindi--english">Video From the BLiSC COVID Testing Center (audio in Hindi &amp;amp; English)&lt;/h3>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/8UN_JfKGVzY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item><item><title>Tadpole Begging : Diet and Toxicity</title><link>https://aiyeraditya.github.io/projects/tadpole_begging/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://aiyeraditya.github.io/projects/tadpole_begging/</guid><description>&lt;p>Add your &lt;em>content&lt;/em> here&amp;hellip;&lt;/p></description></item><item><title>Understanding the Role of Halteres in Control of Insect Flight</title><link>https://aiyeraditya.github.io/projects/haltere/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://aiyeraditya.github.io/projects/haltere/</guid><description>&lt;p>Add your &lt;em>content&lt;/em> here&amp;hellip;&lt;/p></description></item></channel></rss>
